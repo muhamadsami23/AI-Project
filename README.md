@@ -11,6 +11,19 @@ Muhammad Yasir (22K-5090)
 **Submission Date:** May 9, 2025  
 **Department:** Department of Computer Science, National University of Computing and Emerging Sciences  
 
+## How to Run
+**Install Libraries**
+-Pytorch
+-Matplotlib
+-Pygame
+-platform
+-numpy
+-random
+-enum
+
+After installing the libraries:
+**run python agent.py**
+
 ---
 
 ## Table of Contents
