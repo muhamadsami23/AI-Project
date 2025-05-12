@@ -1,5 +1,5 @@
 # Reinforcement Learning for Snake Game AI
-# Video Link : https://www.youtube.com/watch?v=JdQCcS8N6dY
+**Video Link : https://www.youtube.com/watch?v=JdQCcS8N6dY**
 
 **Project Report**  
 **Submitted By:**  
