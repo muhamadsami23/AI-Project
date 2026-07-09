@@ -1,17 +1,3 @@
-# Reinforcement Learning for Snake Game AI
-**Video Link : https://www.youtube.com/watch?v=JdQCcS8N6dY**
-
-**Project Report**  
-**Submitted By:**  
-M. Sami Faisal (22K-6009)  
-Syed Muhammad Sufyan (22K-6012)  
-Muhammad Yasir (22K-5090)  
-
-**Course:** Artificial Intelligence  
-**Instructor:** Ms. Almas Ayesha Ansari  
-**Submission Date:** May 9, 2025  
-**Department:** Department of Computer Science, National University of Computing and Emerging Sciences  
-
 ## How to Run
 **Install Libraries**
 -Pytorch
